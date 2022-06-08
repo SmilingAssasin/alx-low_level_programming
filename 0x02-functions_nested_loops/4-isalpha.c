@@ -5,7 +5,7 @@
  * @c: type int character
  * Return: 1 if letter, lowercase or uppercase, and 0 the rest.
  */
-int _islpha(int c)
+int _isalpha(int c)
 {
 	if((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	       return (1);
