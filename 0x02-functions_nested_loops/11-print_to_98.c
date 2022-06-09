@@ -4,7 +4,7 @@
 /**
  * print_to_98 - print numbers
  * @n: input integer
- * prints all natural numbers from n to 98 
+ * prints all natural numbers from n to 98
  * followed by a new line
  * Return: void
  */
